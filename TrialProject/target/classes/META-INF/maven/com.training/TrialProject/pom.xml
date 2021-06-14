@@ -6,6 +6,6 @@
   <properties>
   <maven.compiler.target>1.8</maven.compiler.target>
    <maven.compiler.source>1.8</maven.compiler.source>
- <exec.mainClass>com.training.Trial</exec.mainClass> 
+ <exec.mainClass>com.training.Greeting</exec.mainClass> 
   </properties>
 </project>
